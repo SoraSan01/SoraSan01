@@ -24,7 +24,6 @@ I'm a Computer Science graduate with a passion for building web applications, da
 * C#
 * VB.NET
 * SQL
-* JavaScript
 
 **Web Development**
 
@@ -32,12 +31,12 @@ I'm a Computer Science graduate with a passion for building web applications, da
 * CSS
 * Bootstrap
 * Django
-* ASP.NET MVC
 
 **Database**
 
 * Microsoft SQL Server
 * MySQL
+* PostgreSQL
 
 **Tools**
 
@@ -71,14 +70,6 @@ A database-driven system for retrieving and validating student academic records.
 * SQL Query Optimization
 * Data Validation
 * System Maintenance & Testing
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoraSan01\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoraSan01\&layout=compact\&theme=github_dark)
 
 ---
 
