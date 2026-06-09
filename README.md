@@ -20,8 +20,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://streak-stats.demolab.com?user=SoraSan01&theme=tokyonight" />
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoraSan01&theme=tokyonight" />
+  <table>
+  <tr>
+    <td valign="top">
+      <img width="400" src="https://streak-stats.demolab.com?user=SoraSan01&theme=tokyonight" />
+    </td>
+    <td valign="top">
+      <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoraSan01&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 </p>
 
 <p align="center">
