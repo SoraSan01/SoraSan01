@@ -47,35 +47,11 @@ I'm a Computer Science graduate with a passion for building web applications, da
 
 ---
 
-### 📂 Featured Projects
-
-#### 🏢 Work Management System
-
-A web-based application designed to streamline task assignment and progress tracking.
-
-**Key Features:**
-
-* User Authentication
-* Role-Based Access Control
-* Task Management
-* Progress Monitoring
-
-#### 🎓 Grade Verification System
-
-A database-driven system for retrieving and validating student academic records.
-
-**Key Features:**
-
-* Record Verification
-* SQL Query Optimization
-* Data Validation
-* System Maintenance & Testing
-
----
-
 ### 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/reyven-eran](http://www.linkedin.com/in/reyven-eran)
+* Instagram: [https://www.instagram.com/reivxnn_/](https://www.instagram.com/reivxnn_/)
+* Facebook: [https://www.facebook.com/eranreyven](https://www.facebook.com/eranreyven)
 
 ---
 
